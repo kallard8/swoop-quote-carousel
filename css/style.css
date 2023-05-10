@@ -1,7 +1,7 @@
 /* Stylesheet */
 
-/* Import Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+/* Sharpie font */
+font-family: 'Sharpie-Regular';
 
 body {  
   /* Horizontal and Vertical Center */
@@ -19,7 +19,6 @@ body {
 
 /* Apply Font */
 main {
-  font-family: 'Abril Fatface', cursive;
   font-size: 5vmin;
   text-align: center;
   
