@@ -3,6 +3,7 @@
 /* Sharpie font */
 font-family: 'Sharpie-Regular';
 
+
 body {  
   /* Horizontal and Vertical Center */
   display: flex;
@@ -19,6 +20,7 @@ body {
 
 /* Apply Font */
 main {
+
   font-size: 5vmin;
   text-align: center;
   
