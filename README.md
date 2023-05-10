@@ -7,4 +7,5 @@ A carousel of quotes
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- favicon.io
+- [favicon] (https://favicon.io)
+- [Sharpie] (https://www.fontshare.com/fonts/sharpie)
